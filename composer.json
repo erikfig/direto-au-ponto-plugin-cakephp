@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/Accounts",
+    "name": "erikfig/direto-au-ponto-plugin-cakephp",
     "description": "Accounts plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
